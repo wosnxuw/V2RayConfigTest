@@ -1,0 +1,1 @@
+vless://9803B046-1DED-4306-93C4-AA586509F384@phony.test.com:10000?encryption=none&security=none&type=tcp&headerType=none#test_subscribe
